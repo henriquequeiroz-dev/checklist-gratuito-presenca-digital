@@ -3,9 +3,9 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   output: "export",
 
-  basePath: "/checklist",
+  basePath: "/checklist-gratuito-presenca-digital",
 
-  assetPrefix: "/checklist/",
+  assetPrefix: "/checklist-gratuito-presenca-digital/",
 
   images: {
     unoptimized: true,

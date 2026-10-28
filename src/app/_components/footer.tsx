@@ -41,7 +41,7 @@ export function Footer() {
                             <FaWhatsapp size={25} />
                             Quero falar no WhatsApp
                         </a>
-                        <a target="_blank" rel="noopener noreferrer" href="/checklist.pdf" className="
+                        <a target="_blank" rel="noopener noreferrer" href="/checklist-gratuito-presenca-digital/checklist.pdf" className="
                             w-full flex items-center justify-center bg-transparent border-2 border-white/70 text-white gap-3 font-bold
                             py-3 px-5 rounded-xl text-sm sm:text-base lg:text-lg
                             hover:bg-white/10 hover:border-white transition-all duration-200

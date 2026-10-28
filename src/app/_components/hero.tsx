@@ -94,7 +94,7 @@ export function Hero() {
                         </div>
 
                         <div className="flex flex-col items-center gap-3 sm:flex-row sm:justify-center mb-8 lg:justify-start lg:mb-10">
-                            <a target="_blank" rel="noopener noreferrer" href="/checklist.pdf" className="text-white font-bold text-[12px]
+                            <a target="_blank" rel="noopener noreferrer" href="/checklist-gratuito-presenca-digital/checklist.pdf" className="text-white font-bold text-[12px]
                                 flex items-center justify-center gap-2 border-2 border-[#0340E9] px-4 py-2
                             rounded-lg bg-[#002ba1] hover:scale-105 duration-300 transition-all"
                             >

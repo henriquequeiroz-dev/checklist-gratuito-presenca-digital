@@ -1,0 +1,140 @@
+{
+    "page": {
+        "low": {
+            "min": 0,
+            "max": 39,
+            "title": "Criar ou estrutrar sua prenseça online",
+            "subtitle": "Seu negócio ainda tem pouca força digital",
+            "description": "Um site profissional pode aumentar sua credibilidade, aprensentar melhor seus serviços e criar um canal próprio para gerar contatos e oportunidades."
+        },
+        "medium": {
+            "min": 40,
+            "max": 69,
+            "title": "Melhorar seu site e presença online",
+            "subtitle": "Sua base digital existe, mas pode evoluir",
+            "description": "Revise conteúdo, responsividade, chamadas para ação e formas de contato para transformar seu site em uma ferramenta mais eficiente de geração de oportunidades."
+        },
+        "high": {
+            "min": 70,
+            "max": 100,
+            "title": "Otimizar sua presença online",
+            "subtitle": "Sua estrutura já está bem encaminhada",
+            "description": "Continue melhorando velocidade, experiência do usuário, conteúdo e conversão para aproveitar melhor o tráfego e os contatos recebidos."
+        }
+    },
+    "instagram": {
+        "low": {
+            "min": 0,
+            "max": 39,
+            "title": "Fortalecer sua presença no Instagram",
+            "subtitle": "Seu perfil ainda pode transmitir mais confiança",
+            "description": "Organize o perfil, deixe seus serviços mais claros e publique conteúdos que ajudem o cliente a entender o que sua empresa oferece."
+        },
+        "medium": {
+            "min": 40,
+            "max": 69,
+            "title": "Melhorar sua estratégia no Instagram",
+            "subtitle": "Seu perfil está ativo, mas pode gerar mais oportunidades",
+            "description": "Trabalhe conteúdo, identidade visual, chamadas para ação e direcionamento para WhatsApp ou site para transformar seguidores em contatos."
+        },
+        "high": {
+            "min": 70,
+            "max": 100,
+            "title": "Potencializar seu Instagram",
+            "subtitle": "Sua presença já está bem estruturada",
+            "description": "Foque em conteúdos estratégicos, provas sociais e campanhas para aumentar alcance, autoridade e geração de leads."
+        }
+    },
+    "google": {
+        "low": {
+            "min": 0,
+            "max": 39,
+            "title": "Melhorar sua presença no Google",
+            "subtitle": "Seus clientes podem ter dificuldade para encontrar sua empresa",
+            "description": "Configure e atualize sua presença no Google para facilitar buscas, localização, contato e aumentar sua credibilidade."
+        },
+        "medium": {
+            "min": 40,
+            "max": 69,
+            "title": "Fortalecer seu posicionamento no Google",
+            "subtitle": "Sua empresa já aparece, mas ainda pode ganhar visibilidade",
+            "description": "Mantenha informações atualizadas, incentive avaliações e trabalhe sua presença local e orgânica para atrair mais buscas qualificadas."
+        },
+        "high": {
+            "min": 70,
+            "max": 100,
+            "title": "Otimizar sua visibilidade no Google",
+            "subtitle": "Sua empresa já possui uma boa presença nas buscas",
+            "description": "Continue trabalhando avaliações, conteúdo, SEO e informações atualizadas para aumentar sua vantagem competitiva."
+        }
+    },
+    "whatsapp": {
+        "low": {
+            "min": 0,
+            "max": 39,
+            "title": "Organizar seu atendimento no WhatsApp",
+            "subtitle": "Você pode estar perdendo oportunidades no atendimento",
+            "description": "Estruture mensagens, respostas rápidas e organização dos contatos para reduzir demora e melhorar a experiência do cliente."
+        },
+        "medium": {
+            "min": 40,
+            "max": 69,
+            "title": "Melhorar seu processo de atendimento",
+            "subtitle": "Seu WhatsApp funciona, mas ainda pode ser mais eficiente",
+            "description": "Padronize respostas, organize contatos e utilize recursos do WhatsApp Business para ganhar velocidade e controle."
+        },
+        "high": {
+            "min": 70,
+            "max": 100,
+            "title": "Otimizar seu atendimento no WhatsApp",
+            "subtitle": "Seu atendimento já possui uma boa estrutura",
+            "description": "Considere automações e integrações para reduzir tarefas repetitivas e melhorar ainda mais a experiência dos clientes."
+        }
+    },
+    "landingpage": {
+        "low": {
+            "min": 0,
+            "max": 39,
+            "title": "Criar landing pages para suas ofertas",
+            "subtitle": "Suas campanhas podem estar perdendo conversões",
+            "description": "Uma landing page direciona o visitante para uma única ação, como solicitar orçamento, chamar no WhatsApp ou preencher um formulário."
+        },
+        "medium": {
+            "min": 40,
+            "max": 69,
+            "title": "Melhorar suas páginas de conversão",
+            "subtitle": "Você já possui alguma estrutura, mas pode converter mais",
+            "description": "Trabalhe ofertas mais claras, chamadas para ação e formulários simples para transformar mais visitantes em oportunidades."
+        },
+        "high": {
+            "min": 70,
+            "max": 100,
+            "title": "Otimizar suas landing pages",
+            "subtitle": "Suas páginas já possuem uma boa base",
+            "description": "Teste diferentes ofertas, chamadas e elementos de conversão para melhorar continuamente seus resultados."
+        }
+    },
+    "automation": {
+        "low": {
+            "min": 0,
+            "max": 39,
+            "title": "Automatizar tarefas repetitivas",
+            "subtitle": "Muitos processos ainda dependem de trabalho manual",
+            "description": "Automatizar etapas simples pode reduzir tempo operacional, melhorar o atendimento e evitar que oportunidades sejam esquecidas."
+        },
+        "medium": {
+            "min": 40,
+            "max": 69,
+            "title": "Expandir suas automações",
+            "subtitle": "Você já utiliza tecnologia, mas ainda há processos manuais",
+            "description": "Identifique tarefas repetitivas no atendimento, vendas e acompanhamento para criar fluxos mais rápidos e organizados."
+        },
+        "high": {
+            "min": 70,
+            "max": 100,
+            "title": "Evoluir suas automações",
+            "subtitle": "Sua operação já possui uma boa base tecnológica",
+            "description": "Integrações entre sistemas, WhatsApp e IA podem aumentar ainda mais eficiência, escala e qualidade do atendimento."
+        }
+    }
+}

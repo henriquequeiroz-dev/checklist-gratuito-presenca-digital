@@ -1,0 +1,170 @@
+[
+    {
+        "value": "page",
+        "title": "Site e Presença Online",
+        "subtitle": "Visibilidade na internet",
+        "trigger": "Seu negócio tem um site profissional?",
+        "content": [
+            {
+                "id": "page-1",
+                "label": "Minha empresa tem um site profissional."
+            },
+            {
+                "id": "page-2",
+                "label": "O site apresenta claramente meu produtos ou serviços."
+            },
+            {
+                "id": "page-3",
+                "label": "O site é responsivo (funciona bem no celular)."
+            },
+            {
+                "id": "page-4",
+                "label": "Recebo contatos ou vendas pelo site."
+            }
+        ],
+        "tip": {
+            "title": "Um site bem estruturado aumenta sua credibilidade",
+            "description": "Empresas com sites profissionais transmitem mais confiança e tem mais chances de atrair e converter clientes."
+        }
+    },
+    {
+        "value": "instagram",
+        "title": "Instagram",
+        "subtitle": "Conteúdo e engajamento",
+        "trigger": "Sua marca está ativa e transmite profissionalismo no Instagram?",
+        "content": [
+            {
+                "id": "instagram-1",
+                "label": "Meu Instagram está atualizado e ativo."
+            },
+            {
+                "id": "instagram-2",
+                "label": "Meu perfil explica claramente o que minha empresa oferece."
+            },
+            {
+                "id": "instagram-3",
+                "label": "Minhas publicações mantêm uma identidade visual consistente."
+            },
+            {
+                "id": "instagram-4",
+                "label": "Meu perfil facilita o contato ou pedido de orçamento."
+            }
+        ],
+        "tip": {
+            "title": "Um Instagram profissional aumenta a confiança na sua marca",
+            "description": "Um perfil organizado ajuda o cliente a entender seu negócio, conhecer seus serviços e encontrar rapidamente uma forma de entrar em contato."
+        }
+    },
+    {
+        "value": "google",
+        "title": "Google",
+        "subtitle": "Buscas e reputação",
+        "trigger": "Sua empresa é encontrada facilmente no Google?",
+        "content": [
+            {
+                "id": "google-1",
+                "label": "Minha empresa aparece nas pesquisas do Google."
+            },
+            {
+                "id": "google-2",
+                "label": "Tenho um Perfil da Empresa no Google atualizado."
+            },
+            {
+                "id": "google-3",
+                "label": "Endereço, telefone e horário estão corretos."
+            },
+            {
+                "id": "google-4",
+                "label": "Minha empresa possui avaliações de clientes."
+            }
+        ],
+        "tip": {
+            "title": "Ser encontrado no Google pode gerar novas oportunidades.",
+            "description": "Quando alguém procura pelo seu serviço, uma presença bem configurada aumenta as chances de sua empresa aparecer e receber contatos."
+        }
+    },
+    {
+        "value": "whatsapp",
+        "title": "WhatsApp",
+        "subtitle": "Atendimento e vendas",
+        "trigger": "Você usa o WhatsApp de forma estratégica para atender e vender?",
+        "content": [
+            {
+                "id": "whatsapp-1",
+                "label": "Respondo rapidamente aos clientes."
+            },
+            {
+                "id": "whatsapp-2",
+                "label": "Utilizo o WhatsApp Business."
+            },
+            {
+                "id": "whatsapp-3",
+                "label": "Tenho mensagens automáticas ou respostas rápidas configuradas."
+            },
+            {
+                "id": "whatsapp-4",
+                "label": "Consigo organizar e acompanhar os contatos recebidos."
+            }
+        ],
+        "tip": {
+            "title": "Um atendimento organizado evita oportunidades perdidas.",
+            "description": "Respostas rápidas, automações e organização podem facilitar o atendimento e reduzir a chance de um potencial cliente desistir antes de ser atendido."
+        }
+    },
+    {
+        "value": "landingpage",
+        "title": "Landing Page",
+        "subtitle": "Campanhas e conversões",
+        "trigger": "Sua empresa utiliza páginas específicas para campanhas e ofertas?",
+        "content": [
+            {
+                "id": "landingpage-1",
+                "label": "Já utilizei uma landing page para divulgar um produto ou serviço."
+            },
+            {
+                "id": "landingpage-2",
+                "label": "Minhas campanhas possuem uma chamada para ação clara."
+            },
+            {
+                "id": "landingpage-3",
+                "label": "O visitante consegue solicitar orçamento facilmente."
+            },
+            {
+                "id": "landingpage-4",
+                "label": "Consigo acompanhar os contatos gerados pelas campanhas."
+            }
+        ],
+        "tip": {
+            "title": "Landing pages ajudam a transformar interesse em contato.",
+            "description": "Uma página focada em uma única oferta reduz distrações e direciona o visitante para ações como solicitar orçamento, chamar no WhatsApp ou preencher um formulário."
+        }
+    },
+    {
+        "value": "automation",
+        "title": "Automação",
+        "subtitle": "Processos e ferramentas",
+        "trigger": "Sua empresa utiliza tecnologia para reduzir tarefas manuais?",
+        "content": [
+            {
+                "id": "automation-1",
+                "label": "Tenho alguma etapa do atendimento automatizada."
+            },
+            {
+                "id": "automation-2",
+                "label": "Utilizo ferramentas para organizar clientes e contatos."
+            },
+            {
+                "id": "automation-3",
+                "label": "Algumas mensagens ou respostas são enviadas automaticamente."
+            },
+            {
+                "id": "automation-4",
+                "label": "Consigo acompanhar oportunidades sem depender apenas de anotações manuais."
+            }
+        ],
+        "tip": {
+            "title": "Automação pode economizar tempo e melhorar o atendimento.",
+            "description": "Tarefas repetitivas podem ser automatizadas para que a empresa responda mais rápido, organize melhor os contatos e tenha mais tempo para atividades importantes."
+        }
+    }
+]

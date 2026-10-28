@@ -1,0 +1,29 @@
+{
+    "low": {
+        "min": 0,
+        "max": 39,
+        "status": "danger",
+        "icon": "circle-alert",
+        "label": "Precisa de atenção",
+        "title": "Sua presença digital precisa evoluir",
+        "description": "Seu negócio ainda apresenta vários pontos de melhoria na presença digital."
+    },
+    "medium": {
+        "min": 40,
+        "max": 69,
+        "status": "warning",
+        "icon": "triangle-alert",
+        "label": "Em desenvolvimento",
+        "title": "Você já começou, mas ainda há oportunidades",
+        "description": "Sua empresa já possui uma base digital, mas ainda pode melhorar alguns pontos importantes."
+    },
+    "high": {
+        "min": 70,
+        "max": 100,
+        "status": "success",
+        "icon": "circle-check",
+        "label": "Bom resultado!",
+        "title": "Sua prenseça digital está bem encaminhada",
+        "description": "Seu negócio já possui uma boa prensença digital, mas ainda existem oportunidades de evolução."
+    }
+}

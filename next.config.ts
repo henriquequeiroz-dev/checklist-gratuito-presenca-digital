@@ -1,7 +1,16 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  output: "export",
+
+  basePath: "/checklist",
+
+  assetPrefix: "/checklist/",
+
+  images: {
+    unoptimized: true,
+  },
+
   turbopack: {
     rules: {
       "*.css": {
